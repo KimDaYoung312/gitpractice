@@ -9,6 +9,6 @@
 				integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
 </head>
 <body>
-수빈아 화이팅~
+수빈아 화이팅~ 받아줘
 </body>
 </html>
