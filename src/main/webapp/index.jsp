@@ -9,6 +9,12 @@
   src="https://code.jquery.com/jquery-3.6.4.js"></script>
 </head>
 <body>
+<<<<<<< HEAD
 ABC
+=======
+프로젝트 최초 시작.
+ABC
+서현우-컴플릭트 실험
+>>>>>>> 331e6f4b30bda4f556f258b401fcf4c9668575c9
 </body>
 </html>
