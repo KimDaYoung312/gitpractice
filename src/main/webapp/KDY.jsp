@@ -5,15 +5,10 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
-<script src="https://code.jquery.com/jquery-3.6.4.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.4.js"
+				integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
 </head>
 <body>
-
-요맨 수고가 많아~
-항상 고맙고 화이팅이야~~
-
-배고파아아아~
-
-요요요요요요용요요요요용
+수빈아 화이팅~
 </body>
 </html>
