@@ -9,6 +9,6 @@
 <script src="https://code.jquery.com/jquery-3.6.4.js"></script>
 </head>
 <body>
-수빈이형 화이팅~
+수빈이형 화이팅~ 제꺼 받아주세요
 </body>
 </html>
