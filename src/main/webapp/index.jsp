@@ -9,7 +9,7 @@
   src="https://code.jquery.com/jquery-3.6.4.js"></script>
 </head>
 <body>
-프로젝트 최초 시작.이야 내꿈은 내꿈을위한 여행 피카츄
-abc
+프로젝트 최초 시작.
+서현우-컴플릭트 실험
 </body>
 </html>
